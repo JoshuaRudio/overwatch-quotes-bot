@@ -368,3 +368,117 @@ DVA_QUOTES = (
     "Annyeong!",
     "I'm ready to initiate self-destruct sequence!"
 )
+
+ORISA_QUOTES = (
+    "Your safety is my primary concern.",
+    "I am not ready to be deactivated.",
+    "System restart initialized.",
+    "Stop right there.",
+    "You're not getting away.",
+    "Defense mode activated.",
+    "Fortifying defenses.",
+    "Routing application systems to defense.",
+    "For your own safety, get behind the barrier.",
+    "You are advised to move behind my barrier.",
+    "Cease your resistance!",
+    "Team up for special attack!",
+    "You are advised to cease your resistance.",
+    "Fist bump!",
+    "Archiving combat data.",
+    "Was that the Iris?",
+    "I still have a job to do.",
+    "Not budging."
+)
+
+REINHARDT_QUOTES = (
+    "Justice will be done.",
+    "Reinhardt at your service.",
+    "Back, and ready for more!",
+    "Back into the fray!",
+    "There is still more to my tale!",
+    "Don't worry, my friends! I am your shield!",
+    "Ah, get behind me!",
+    "I will hold the line!",
+    "Barrier won't hold forever!",
+    "Hammer down!",
+    "Ahh, I'm not as young as I used to be...",
+    "Precision German engineering!",
+    "I'm just getting started!",
+    "When all you have is a hammer, everyone else is a nail.",
+    "Do I have your attention yet?",
+    "100% German power!",
+    "What a performance!",
+    "Bring me another!",
+    "I'm the ultimate crushing machine.",
+    "We shall prove ourselves in glorious combat!",
+    "We fought a terrible battle here. Many Crusaders lost their lives.",
+    "Aha! I live for a good fight!"
+)
+
+ROADHOG_QUOTES = (
+    "I’m a one man apocalypse.",
+    "Roadhog time.",
+    "Roadhog rides again.",
+    "Come here!",
+    "Here, little piggy.",
+    "I'm gonna make you squeal.",
+    "Get down",
+    "Eat! This!",
+    "Bury them deep.",
+    "No pain, no gain.",
+    "Welcome to the apocalypse.",
+    "Like taking candy from a baby.",
+    "Bleeding like a stuck pig!",
+    "Violence is usually the answer.",
+    "Life is pain, so is death.",
+    "What are you lookin at?",
+    "We're all animals.",
+    "Say 'bacon' one more time..."
+)
+
+WINSTON_QUOTES = (
+    "Imagination is the essence of discovery.",
+    "Once more unto the breach.",
+    "Through the miracle of science!",
+    "Onward and upward!",
+    "Excuse me for.. dropping in.",
+    "Coming through.",
+    "This will protect us.",
+    "I've seem to have lost my temper.",
+    "How embarrassing",
+    "Now you are the endangered species.",
+    "Would you like to donate your body to science?",
+    "Survival of the fittest.",
+    "Buh-ahahahahaa... uh... excuse me.",
+    "No, I do not want a banana.",
+    "Did... someone say peanut butter?",
+    "The power of science!",
+    "Houston, uh... we have a problem.",
+    "I'm looking forward to working with you all.",
+    "Together, we can solve any problem.",
+    "I can’t wait to see you all in action."
+)
+
+ZARYA_QUOTES = (
+    "Together, we are strong.",
+    "Zarya, ready for duty.",
+    "Haha! Practice makes perfect.",
+    "Nuh uh; I am not a good loser.",
+    "Don’t be shy; hit me!",
+    "Give me your best shot.",
+    "Barrier's on you; go!",
+    "Get in there.",
+    "Is that all you've got?",
+    "Just a scratch.",
+    "Maximum charge!",
+    "Fire at will!",
+    "Ogon po gotovnosti!",
+    "Do you even lift?",
+    "From Russia, with love.",
+    "Your team was depending on you.",
+    "Strong as the mountain.",
+    "In Russia, game plays you."
+    "I want to hug you like big, fuzzy, Siberian bear.",
+    "Welcome to the gun show!",
+    "I can bench more than you."
+)
