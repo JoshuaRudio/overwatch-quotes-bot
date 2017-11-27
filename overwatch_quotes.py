@@ -253,3 +253,118 @@ HANZO_QUOTES = (
     "There is beauty in simplicity.",
     "Unacceptable!"
 )
+
+JUNKRAT_QUOTES = (
+    "It's a perfect day for some mayhem.",
+    "Junkrat, primed and ready!",
+    "Well that's a fine how-do-you-do!",
+    "You won't get rid of me that easily.",
+    "Takes a lickin', keeps on tickin'!,
+    "If at first you don’t succeed, blow it up again!",
+    "This bomb's for you!",
+    "Stop me if you’ve heard this one before.",
+    "The hunter lays a trap for his prey.",
+    "Hohoho....this'll be good.....",
+    "You really stepped in it, mate!",
+    "Fire in the hole!",
+    "Ladies and gentlemen....start your engines!",
+    "Everything's coming up.....EXPLODEY!",
+    "And they said I'd never amount to anything!",
+    "If it can’t handle the heat, stay out of my face!",
+    "Brings a tear to me eyes.",
+    "Someone better get a firey, because I'm on a roll!",
+    "Come on, come on, come on! I hate waiting!",
+    "It’s hard to just sit around knowing there’s someone out there that needs to be blown up!",
+    "What a bunch of misfits and freaks we got here. I love it!",
+    "I'm on fire! Usually that would not be a good thing."
+)
+
+MEI_QUOTES = (
+    "Our world is worth fighting for.",
+    "I have to get back in the fight.",
+    "Everyone is counting on me!",
+    "Let's see you get past this!",
+    "Ice wall, coming up.",
+    "Blocking them off",
+    "Freeze! Don't move!",
+    "I hope you learned your lesson.",
+    "Sorry! Sorry, I'm sorry. Sorry.",
+    "A-Mei-zing!",
+    "You have to let it go.",
+    "I love it here in the mountains! I wish I could go climbing",
+    "I’m ready to start a blizzard.",
+    "Anyone want a popsicle?",
+    "I'm on fire! Well, you know what I mean."
+    "Ooh, sorry about that.",
+    "Oops, sorry!",
+    "Mei checking in!"
+)
+
+TORBJORN_QUOTES = (
+    "Build em up, break em down.",
+    "Torbjörn ready to work!",
+    "Back to the drawing board.",
+    "Heh, time to roll up my sleeves.",
+    "Heh heh, I have big plans for you!",
+    "Oh, such potential!",
+    "I foresee great things for you!",
+    "Ha ha ha. Just wait and see what I have in mind!",
+    "My masterpiece!",
+    "Alright. Now do what you were built to do!",
+    "My turret!",
+    "Armor, come get it!",
+    "Come get your armor.",
+    "Molten Core!",
+    "It's always better to be the hammer than the nail.",
+    "If you want something done right, you gotta do it yourself.",
+    "Don't get caught with your beard in the letter box.",
+    "Hard work pays off!",
+    "People always underestimate the engineers.",
+    "Some assembly required."
+)
+
+WIDOWMAKER_QUOTES = (
+    "One shot, one kill.",
+    "Widowmaker here.",
+    "C'est la vie.",
+    "Rendez-vous avec la mort.",
+    "I see you, do you see me?",
+    "There you are.",
+    "Ça pique, n'est ce pas?",
+    "A single death can change everything.",
+    "Cherchez la femme.",
+    "Step into my parlor,' said the spider to the fly.",
+    "What's an aimbot?",
+    "You have my attention.",
+    "Bonjour.",
+    "A beautiful death.",
+    "The enemies of Talon shall be eliminated.",
+    "*chuckles* I think it's time for us to see other people.",
+    "I am ready to kill.",
+    "Enough waiting around."
+)
+
+DVA_QUOTES = (
+    "I play to win!",
+    "I'm too young to die!",
+    "Ha! Jah Jin Nah!",
+    "I'm not a good loser.",
+    "Defense Matrix activated.",
+    "I'm gonna have to shoot you down!",
+    "Time to raise my APM!",
+    "Bunny hop!",
+    "MEKA activated!",
+    "All systems checked out.",
+    "Bailing out.",
+    "Brb.",
+    "Nerf this!",
+    "Activating self-destruct sequence!",
+    "MVP: D.Va!",
+    "Here comes a new challenger!",
+    "D.Va: 1, Bad Guys: 0",
+    "Is this easy mode?",
+    "Aw, yeah!",
+    "GG!",
+    "Annyeong!",
+    "I'm ready to initiate self-destruct sequence!"
+)
