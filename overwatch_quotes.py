@@ -193,3 +193,63 @@ SOMBRA_QUOTES = (
     "I knew you were good for something.",
     "I know kung fu."
 )
+
+TRACER_QUOTES = (
+    "Cheers, love! The cavalry’s here!",
+    "Well, that just happened.",
+    "And she's back in the game!",
+    "Whee!",
+    "Wicked!",
+    "Ever get that feeling of déjà vu?",
+    "Now, where were we?",
+    "Here you go!",
+    "Right on target!",
+    "You got what's coming to ya!",
+    "This time, stay down.",
+    "The world could always use more heroes.",
+    "Looks like you need a time out.",
+    "I have this under control.",
+    "Oi! This is no time for standin' around.",
+    "Look out world! Tracer's here.",
+    "Should we nip to the pub?",
+    "Pub, anyone?",
+    "I could murder a chip sarnie."
+)
+
+BASTION_QUOTES = (
+    "Bwee, hoo hoo, bwoo.",
+    "Woo, boo doo boo doo doo doo doo!",
+    "Boo doo boo doo!",
+    "Woo, wow!",
+    "Beepleleleh.",
+    "Bweeeeeeeeeeeoh.",
+    "Bwoo chirr chirr chirr chirr chirr chirr chirr",
+    "Zwee?"
+    "Woop doo woo dun woop dun doo.",
+    "Doo dun dun woo, doo dun wooo"
+)
+
+HANZO_QUOTES = (
+    "With every death, comes honor. With honor, redemption.",
+    "Hanzo at your service.",
+    "I will not be defeated so easily.",
+    "Start over at the beginning.",
+    "A minor setback.",
+    "I am not deterred!",
+    "My arrow finds its mark.",
+    "Strike at the heart!",
+    "See through the dragon's eyes.",
+    "Marked!",
+    "Ryū Ga Waga Teki O Kurau!",
+    "Let the dragon consume you!",
+    "The dragon consumes.",
+    "The dragon is sated.",
+    "My aim is true.",
+    "They fall before me, one after another.",
+    "Flow like water.",
+    "From one thing, know ten thousand things.",
+    "The outcome was never in doubt.",
+    "When the moon is full, it begins to wane.",
+    "There is beauty in simplicity.",
+    "Unacceptable!"
+)
