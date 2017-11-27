@@ -119,3 +119,77 @@ PHARAH_QUOTES = (
     "Remember your training, and we'll get through this just fine.",
     "All systems checked out, ready for combat maneuvers."
 )
+
+REAPER_QUOTES = (
+    "Death walks among you.",
+    "This… is my curse.",
+    "That which doesn't kill you... makes you stronger.",
+    "The grave cannot hold me.",
+    "I will feast on their souls.",
+    "Death comes.",
+    "From the shadows.",
+    "Repositioning.",
+    "Die, die, die!",
+    "Clearing the area.",
+    "The darkness consumes.",
+    "*Evil laughter*",
+    "Nothing can stop death.",
+    "Another one off the list.",
+    "What are you looking at?",
+    "Dead man walking.",
+    "I'm not a psychopath. I'm a high-functioning psychopath.",
+    "You look like you've seen a ghost.",
+    "I work the graveyard shift.",
+    "Just stay out of my way.",
+    "Ready for combat operations.",
+    "Death comes for all."
+)
+
+SOLDIER76_QUOTES = (
+    "We're all soldiers now.",
+    "Soldier: 76 reporting for duty.",
+    "I'm not a young man anymore.",
+    "Knock me down, and I'll keep getting back up.",
+    "This old dog's learned a few tricks.",
+    "Get over here and heal up!",
+    "Come here and get stabilized.",
+    "Anyone need some healing?",
+    "I've got you in my sights!",
+    "Tactical Visor activated!",
+    "Young punks... Get off my lawn!",
+    "I'm an army of one.",
+    "I didn't start this war, but I'm damn well gonna finish it.",
+    "Old soldiers never die, and they don't fade away.",
+    "I'm the one who does his job. I'm thinkin'... You're the other one.",
+    "Not on my watch.",
+    "Are you trying to impress me?",
+    "Back in my day, we’d have this payload delivered already!",
+    "Age before beauty. I guess you're coming in third.",
+    "Quit screwing around and get ready to move!",
+    "Try not to get yourselves killed out there.",
+    "Los Muertos is a cancer on this city.",
+    "Lot of memories of this place. They weren't all bad."
+)
+
+SOMBRA_QUOTES = (
+    "Everything can be hacked, and everyone.",
+    "Sombra online.",
+    "Ya estoy lista para ese trago.",
+    "Podría haber salido mejor.",
+    "Iniciando el hackeo.",
+    "Initiating the hack.",
+    "Here I am.",
+    "¿Qué onda?",
+    "¿Me extrañaste?",
+    "Missed me?",
+    "Always leave yourself a back door.",
+    "See you later!",
+    "¡Apagando las luces!",
+    "EMP activated!",
+    "So many targets, so little time.",
+    "Hmm.. looks like I have time to do some research.",
+    "I'm guessing there's no chance we can take care of this quietly, is there?",
+    "Boop!",
+    "I knew you were good for something.",
+    "I know kung fu."
+)
