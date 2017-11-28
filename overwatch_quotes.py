@@ -1,26 +1,44 @@
 import praw
+import random
 import pdb
 import re
 import os
+import string
 
-reddit = praw.Reddit('bot1')
+def authenticate():
+    print('Logging in...\n')
+    reddit = praw.Reddit('bot1', user_agent='Overbot 0.1')
+    print('Logged in as {}\n'.format(reddit.user.me()))
+    return reddit
 
-subreddit = reddit.subreddit('overwatch')
+def overwatch_quotes():
+    reddit = authenticate()
+    all_comments = reddit.subreddit('test').comments(limit=100)
+    print("Checking each comment for")
+    for comment in all_comments:
+        check_comment_for_hero(comment, reddit)
 
-# Reads Top 5 stories in 'Hot' category of /r/Overwatch
-# for submission in subreddit.hot(limit=5):
-#     print("Title: ", submission.title)
-#     print("Text: ", submission.selftext)
-#     print("Score: ", submission.score)
-#     print("---------------------------------\n")
-#
-# if not os.path.isfile("posts_replied_to.txt"):
-#     posts_replied_to =[]
-# else:
-#     with open("posts_replied_to.txt", "r") as f:
-#         posts_replied_to = f.read()
-#         posts_replied_to = posts_replied_to.split("\n")
-#         posts_replied_to = list(filter(None, posts_replied_to))
+def reply(hero, regex, reddit, facts, comment):
+    text = ' '.join(word.strip(string.punctuation)
+                    for word in comment.body.lower().split())
+    text = ' ' + text + ' '
+    match = re.findall(regex, text)
+    if match:
+        print(
+            hero.upper() +
+            " found in comment with ID: " +
+            comment.id
+            )
+        try:
+            message = random.choice(facts)
+            message = "\"" + message + "\"" + " - " + hero.capitalize()
+            comment.reply(message)
+        except:
+            print('Failed to comment - either timed out or deleted/locked comment')
+
+
+def check_comment_for_hero(comment, reddit):
+    reply('doomfist', '\sdoomfist?\s', reddit, DOOMFIST_QUOTES, comment)
 
 DOOMFIST_QUOTES = (
     'Rising above all!',
@@ -639,3 +657,5 @@ ZENYATTA_QUOTES = (
     "I will not juggle.",
     "Life is more than a series of ones and zeroes."
 )
+
+overwatch_quotes()
