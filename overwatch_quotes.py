@@ -39,6 +39,12 @@ def reply(hero, regex, reddit, facts, comment):
 
 def check_comment_for_hero(comment, reddit):
     reply('doomfist', '\sdoomfist?\s', reddit, DOOMFIST_QUOTES, comment)
+    reply('genji', '\sgenji?\s', reddit, GENJI_QUOTES, comment)
+    reply('hanzo', '\shanzo?\s', reddit, HANZO_QUOTES, comment)
+    reply('reinhardt', '\sreinhardt?\s', reddit, REINHARDT_QUOTES, comment)
+    reply('mercy', '\smercy?\s', reddit, MERCY_QUOTES, comment)
+    reply('soldier 76', '\ssoldier 76?\s', reddit, SOLDIER76_QUOTES, comment)
+    reply('dva', '\sdva?\s', reddit, DVA_QUOTES, comment)
 
 DOOMFIST_QUOTES = (
     'Rising above all!',
@@ -277,7 +283,7 @@ JUNKRAT_QUOTES = (
     "Junkrat, primed and ready!",
     "Well that's a fine how-do-you-do!",
     "You won't get rid of me that easily.",
-    "Takes a lickin', keeps on tickin'!,
+    "Takes a lickin', keeps on tickin'!",
     "If at first you don’t succeed, blow it up again!",
     "This bomb's for you!",
     "Stop me if you’ve heard this one before.",
